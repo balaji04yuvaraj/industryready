@@ -35,6 +35,7 @@ API_SECRET_KEY
 BOOTSTRAP_SERVER
 ```
 
+#"Updated"
 
 Schema related Environment Variable
 ```
